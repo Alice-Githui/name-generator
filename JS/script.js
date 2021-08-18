@@ -6,5 +6,7 @@ button.addEventListener("click", function(event){
     let name="Alice Githui"
     event.preventDefault()
 
-    event.target.textContent="My name is " + name
+    showname.innerHTML="My name is "+ name
+
+    // event.target.textContent="My name is " + name
 })
