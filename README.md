@@ -8,3 +8,5 @@
 - There are no known bugs at the moment
 
 ## Link to my resume
+[RESUME](https://alice-githui.github.io/HNG-resume/)
+[GITHUB PAGE](https://github.com/Alice-Githui/HNG-resume.git)
